@@ -47,7 +47,14 @@ function HeroSection({
                   <Button buttonSize='btn--wide' buttonColor='blue'>
                     {buttonLabel}
                   </Button>
+                  
                 </Link>
+                  <h2 className='group'>Groupe 18 PFE </h2>
+                  <div className='names-of-members'>
+                    DJOUMESSI MBITANTSIA Yvan-joel (CDRI)<br/>
+                    SELAGSA MOFFO SERGEO (CDRI)<br/>
+                    NZONDA NGUIFFO VIVAREST (QSIR)<br/>
+                  </div>
               </div>
             </div>
             <div className='col'>

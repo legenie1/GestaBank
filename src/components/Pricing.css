@@ -71,6 +71,16 @@
   margin-bottom: 24px;
 }
 
+.names-of-members{
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+}
+.group {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
 .pricing__container-features {
   margin: 16px 0 32px;
   list-style: none;
